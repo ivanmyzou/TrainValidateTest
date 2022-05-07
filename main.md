@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## An Illustrative Guide to Training, Validating and Testing in Modelling.
 
 You can use the [editor on GitHub](https://github.com/ivanmyzou/ivanmyzou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
