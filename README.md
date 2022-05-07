@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # [TrainValidateTest](https://ivanmyzou.github.io/TrainValidateTest/index)
 
 
