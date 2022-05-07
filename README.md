@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 <div align="center">  
-  <a href="https://ivanmyzou.github.io/TrainValidateTest">
+  <a href="https://ivanmyzou.github.io/TrainValidateTest/index">
     <img src="icon/TVT.PNG" alt="Logo" width="300" height="100">
   </a>
   
