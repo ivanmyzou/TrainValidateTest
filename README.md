@@ -1,7 +1,7 @@
-# [TrainValidateTest](https://ivanmyzou.github.io/TrainValidateTest/)
+# [TrainValidateTest](https://ivanmyzou.github.io/TrainValidateTest/main)
 
 <div align="center">  
-  <a href="https://ivanmyzou.github.io/TrainValidateTest/">
+  <a href="https://ivanmyzou.github.io/TrainValidateTest/main">
     <img src="icon/TVT.PNG" alt="Logo" width="300" height="100">
   </a>
   
