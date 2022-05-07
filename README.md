@@ -1,7 +1,7 @@
 # TrainValidateTest
 
 <div align="center">  
-  <a href="https://github.com/ivanmyzou/QueueingSimulation">
+  <a href="https://ivanmyzou.github.io/TrainValidateTest/">
     <img src="icon/TVT.PNG" alt="Logo" width="300" height="100">
   </a>
   
