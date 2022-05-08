@@ -12,6 +12,7 @@ As an analogy, a modeller training a model is similar to a student studying for 
   <img src="https://github.com/ivanmyzou/TrainValidateTest/blob/main/images/STF_flow.PNG" alt="Studyingflow"/>
 </p>
 
+
 ## Contents
 
 ### 1. [Overview](https://ivanmyzou.github.io/TrainValidateTest/chapters/1)
