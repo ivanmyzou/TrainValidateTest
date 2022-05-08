@@ -9,10 +9,10 @@ As an analogy, a modeller training a model is similar to a student studying for 
 ### 1. [Overview](https://ivanmyzou.github.io/TrainValidateTest/chapters/1)
 We present a short overview of common modelling practices. We introduce the concepts of training, validating and testing as well as the data splitting under the context of modelling.
 ### 2. [Model Training](https://ivanmyzou.github.io/TrainValidateTest/chapters/2)
-We explain what happens during model training and what a minimal model training procedure entails.
+We explain what happens during model training and what a minimal model training procedure entails, introducing the related and very important concepts of underfitting and overfitting.
 ### 3. [Model Testing](https://ivanmyzou.github.io/TrainValidateTest/chapters/3)
-We describe the need for model testing, introducing the related and very important concepts of underfitting and overfitting. We explain how model testing aims to address the issues in model training.
+We describe the need for model testing and how that assists modellers in addressing the problems of underfitting and overfitting arise from model training. We explain how model testing aims to address the issues in model training.
 ### 4. [Model Validations](https://ivanmyzou.github.io/TrainValidateTest/chapters/4)
-We clarify why model validations are usually performed during training. Model validations seemingly perform the function of model testing but it is indeed different and must be separated from the testing procedure at the very end.
+We clarify why model validations are usually performed during training. Model validations seemingly fulfill the role of model testing in a redundant manner but it is indeed different and must be separated from the testing procedure which takes place at the very end.
 ### 5. [Common Modelling Workflow](https://ivanmyzou.github.io/TrainValidateTest/chapters/5)
-We summarise the common modelling workflow, providing a genral picture of what the normal science in the relevant field. We loop back to the concepts introduced in earlier chapters. 
+We summarise the common modelling workflow, providing a general picture of what the normal science entails in the relevant field. We loop back to the concepts introduced in earlier chapters. 
