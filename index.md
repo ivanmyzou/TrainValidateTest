@@ -1,6 +1,6 @@
 <!--- # An Illustrative Guide to Training, Validating and Testing in Modelling -->
 
-A large part of data-driven machine learning is to do with modelling training where the model parameters are progressively updated with optimisation algorithms so that the model progressively improves as reflected through some performance criteria. Closely related to model training, validating and testing also play a huge role in ensuring the model may generalise its performance to relevant scenarios outside of training. Failing to understand those concepts poses substantial risks in understanding the model performance. This then leads to diminished benefit from applying models.
+A large part of data-driven machine learning is to do with model training where the model parameters are progressively updated with optimisation algorithms so that the model progressively improves as reflected through some performance criteria. Closely related to model training, validating and testing also play a huge role in ensuring the model may generalise its performance to relevant scenarios outside of training. Failing to understand those concepts poses substantial risks in understanding the model performance. This then leads to diminished benefit from applying models.
 
 <p align="center">
   <img src="images/TVT_flow.PNG" width="700">
